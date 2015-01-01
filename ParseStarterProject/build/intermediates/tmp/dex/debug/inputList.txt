@@ -1,0 +1,9 @@
+C:\Users\Niva\.AndroidStudio\Parse-Starter-Project-1.8.0 (2)\ParseStarterProject\build\intermediates\classes\debug
+C:\Users\Niva\.AndroidStudio\Parse-Starter-Project-1.8.0 (2)\ParseStarterProject\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-ed7b0d04254d5ec626e297fb3674afcb4df89b63.jar
+C:\Users\Niva\.AndroidStudio\Parse-Starter-Project-1.8.0 (2)\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-ec6a00ca117204c13e39f476712460c8c52152fb.jar
+C:\Users\Niva\.AndroidStudio\Parse-Starter-Project-1.8.0 (2)\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.8.0-0ac5904a2cd5a9d927bb4ac3a0eecd9ba0d86f0b.jar
+C:\Users\Niva\.AndroidStudio\Parse-Starter-Project-1.8.0 (2)\ParseStarterProject\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-937e0c55eb0f28300c93fab9e9158e5baa68ea37.jar
+C:\Users\Niva\.AndroidStudio\Parse-Starter-Project-1.8.0 (2)\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-4c033c213d51d85c59dd87fc026f4a56cb9a368c.jar
+C:\Users\Niva\.AndroidStudio\Parse-Starter-Project-1.8.0 (2)\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.8.0-0d2203a927b7a965fc575da118d661974a0b69f6.jar
+C:\Users\Niva\.AndroidStudio\Parse-Starter-Project-1.8.0 (2)\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-fad8f7366c0adf07529229ea080b06a7258b5ca5.jar
+C:\Users\Niva\.AndroidStudio\Parse-Starter-Project-1.8.0 (2)\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-2f61958fe0ad8f764995c6636db9fae9e929b6ea.jar
